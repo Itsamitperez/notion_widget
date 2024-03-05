@@ -1,7 +1,0 @@
-<behold-widget feed-id="FqH9X56PJgym52vvEkrm"></behold-widget>
-<script>
-  if ('noModule' in HTMLScriptElement.prototype) {
-    const d=document,s=d.createElement('script');s.type='module';
-    s.src='https://w.behold.so/widget.js';d.body.appendChild(s);
-  }
-</script>
